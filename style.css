@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne+Tactile&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+body{
+  height: 100%;
+  background-color: black;
+}
+h1 {
+  font-family: 'Ubuntu', sans-serif;
+  color: greenyellow;
+  text-shadow: red 2px;
+  font-size: 40px;
+}
+h2{
+  color: lawngreen;
+}
+h3{
+  color: greenyellow;
+  font-size: 25px;
+}
+p{
+  color: white;
+  font-size: 20px;
+}
+slog{
+  color: yellowgreen;
+  font-size: 20px;
+  font-family: 'Syne Tactile', cursive;
+}
+hr.x {
+  border-top: 2px dashed greenyellow;
+}
+span{
+  color: white;
+  font-size: 30px;
+}
+
+p2{
+  color: white;
+  font-size: 16px;
+}
+button{
+  background-color: whitesmoke;
+  color: black;
+  font-size: 16px;
+  padding: 3px 7px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50px;
+  text-align: center;
+}
+button:hover{
+  background-color: black;
+  color: greenyellow;
+  cursor: pointer;
+}
